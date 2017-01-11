@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b1ac78454ff9134d0f6027c71952160920d9593d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_069b775b490fd34cdc9ce0b3c4b57354baba0d26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_de060934bb88f7bf0cef3ee49b93bebfacebc016/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3be486e0ab58130db49502401c91f7d0aa923d69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_bca58923433cd860cf7d53c84a0eb0b218d33dff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_4d192a9eb62e71ec79fb1bb953b7b716fd408617/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f99c10612cc4b316e7858e81c7d9ebd55868e4da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_a3ac70e588564b17cef97fee236b6904c5a5992d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="01b50dee7fd50f724b8e26841131dc3c7d27938d">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b436a514bd7f694005935b18197461ee01f9be9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_62e71d630200388d5692cc227620dea040d88278/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_837cdd35fc2b92982baab3b7a9e490b1b4093d96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_77fecee127f1c0862c2ca5a5ebe35937d4b6af05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_b0b63f8f304526fd1b96d5ae0280a33e7f2be237/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bfccf3c9b83d7901e50ae936d59380b3efcfab89">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f786f49efdb49dbab403ced71072e1240f8c78a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_089b9e55c08ad6e8b73487317123598528bfa540/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_df38fccb5b3ea79cbcd1b081d6653f3e81069450/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/workshops/NitteNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_aa10126ce90c0be2a606e5952b6bb32b668500a0/classes.dex" />
+    </item>
+
+</items>
