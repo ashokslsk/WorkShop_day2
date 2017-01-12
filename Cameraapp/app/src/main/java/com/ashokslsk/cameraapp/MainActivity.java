@@ -13,6 +13,9 @@ public class MainActivity extends AppCompatActivity {
     private Button btnCamera;
     private ImageView capturedImage;
 
+    
+    //// TODO: 12/01/17  To save the image captured follow the next app
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -26,13 +29,17 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 openCamera();
+
             }
         });
+
+
 
     }
 
     private void openCamera() {
         Intent intent = new Intent(android.provider.MediaStore.ACTION_IMAGE_CAPTURE);
+
         startActivityForResult(intent, 0);
     }
 
@@ -45,4 +52,6 @@ public class MainActivity extends AppCompatActivity {
             capturedImage.setImageBitmap(bp);
         }
     }
+
+
 }
